@@ -1,1 +1,1 @@
-conflict! second line
+conflict! conflict! second line
