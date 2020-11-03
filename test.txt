@@ -1,1 +1,1 @@
-conflict! conflict! second line
+conflict! conflict!
