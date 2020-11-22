@@ -1,2 +1,2 @@
 test[\
-conlict1
+conflict resolved
